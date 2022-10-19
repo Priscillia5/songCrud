@@ -1,0 +1,4 @@
+/musicapp/__pycache__
+/musicapp/migrations/__pycache__
+/songcrud/__pycache__
+/db.sqlite3
